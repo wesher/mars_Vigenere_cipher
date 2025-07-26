@@ -32,7 +32,7 @@ namespace mars_shifr_visionera
 
         private void INIT()
         {
-            this.Text = "Matt Mars: The Vigener Cipher";
+            this.Text = "Matt Mars: The Vigenere Cipher";
             this.Size = new Size(800, 600);
             this.MinimumSize = new Size(800, 600);
 
